@@ -2,4 +2,4 @@
 
 > create init project 
 > finish POC of blockchain part ```src/externals/web3```
-> begin with database in ```/src/externals/database```
+> begin with database in ```/src/externals/databsudo ase```
