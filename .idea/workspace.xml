@@ -24,6 +24,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1694023577" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1694023576" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+>>>>>>> dev
   <component name="ProjectId" id="2UkXPNChOxQuI83D37ck4DyTr5K" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,7 +65,11 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+<<<<<<< HEAD
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+=======
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+>>>>>>> dev
     &quot;last_opened_file_path&quot;: &quot;/home/devertry/Bureau/bc_project_dropbox/backend-bcsign&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -49,14 +84,24 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
+=======
+      <recent name="$PROJECT_DIR$" />
+>>>>>>> dev
       <recent name="$PROJECT_DIR$/__tests__/externals/web3" />
       <recent name="$PROJECT_DIR$/__tests__" />
       <recent name="$PROJECT_DIR$/src/externals/web3" />
       <recent name="$PROJECT_DIR$/src" />
+<<<<<<< HEAD
       <recent name="$PROJECT_DIR$/src/useCase/interface/web3" />
     </key>
   </component>
   <component name="RunManager" selected="Jest.it should send query to the contract.should not query the documents du to CANNOT_SEND_ADDRESS_CONTRACT ">
+=======
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.docker/docker-compose.yaml.vault: Compose Deployment">
+>>>>>>> dev
     <configuration name="describe the test for get Hash by contract" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
@@ -95,6 +140,7 @@
       </test-names>
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="test users " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
@@ -119,6 +165,8 @@
       </test-names>
       <method v="2" />
     </configuration>
+=======
+>>>>>>> dev
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="backend-bcsign" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,6 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <recent_temporary>
       <list>
         <item itemvalue="Jest.it should send query to the contract.should not query the documents du to CANNOT_SEND_ADDRESS_CONTRACT " />
@@ -148,6 +197,43 @@
         <item itemvalue="Jest.describe the test for get Hash by contract.should get by hash of documents, when the document has input" />
         <item itemvalue="Jest.test users " />
         <item itemvalue="Jest.test" />
+=======
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker/docker-compose.yaml.vault: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="vault" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker/docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="vault " type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="docker/docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker/docker-compose.yaml.vault: Compose Deployment" />
+        <item itemvalue="Docker.vault " />
+        <item itemvalue="Jest.it should send query to the contract.should not query the documents du to CANNOT_SEND_ADDRESS_CONTRACT " />
+        <item itemvalue="Jest.describe the test for get Hash by contract" />
+        <item itemvalue="Jest.describe the test for get Hash by contract.should get by hash of documents, when the document has input" />
+>>>>>>> dev
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +255,11 @@
       <workItem from="1693774130833" duration="5074000" />
       <workItem from="1693860377718" duration="1518000" />
       <workItem from="1693985912117" duration="7000" />
+<<<<<<< HEAD
       <workItem from="1694021867914" duration="1366000" />
+=======
+      <workItem from="1694021867914" duration="4543000" />
+>>>>>>> dev
     </task>
     <servers />
   </component>
