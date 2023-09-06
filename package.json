@@ -1,0 +1,24 @@
+{
+  "name": "backend-bcsign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.22.11",
+    "@faker-js/faker": "^8.0.2",
+    "@types/jest": "^29.5.4",
+    "faker": "^6.6.6",
+    "nodemon-ts": "^1.0.1",
+    "ts-jest": "^29.1.1"
+  },
+  "dependencies": {
+    "web3": "^4.1.1",
+    "web3-utils": "^4.0.5"
+  }
+}
